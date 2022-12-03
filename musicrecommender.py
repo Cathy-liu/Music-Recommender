@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-pip3 install spotipy
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
